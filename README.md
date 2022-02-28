@@ -19,7 +19,8 @@ Screenshot of macro executing on 2017 data:
 
 Screenshot of macro executing on 2018 data:
 
-![](Resources/All_Stocks_VBA_Challenge_2018.png)
+![](Resources/All_Stocks_VBA_Challenge_2018.PNG)
+
 This code was written with a time complexity of O(n2).  This seems unnecessary because it is only required that data is either added each day (to calculate total daily volume), or data is saved at the beginning and end of the year for each stock (for the purposes of calculating return). 
 
 Below is the original code with time complexity of O(n2):
