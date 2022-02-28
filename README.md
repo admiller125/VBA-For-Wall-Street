@@ -31,10 +31,10 @@ Below is the original code with time complexity of O(n2):
 The refactored code had much better performance than the original code accomplishing the same task in roughly 0.11 seconds. This largely has to do with separating the nested for loops. This reduce the time complexity to O(n). 
 
 Screenshot of refactored macro executing on 2017 data:
-![](Resources/VBA_Challenge_2017.PNG)
+![](Resources/VBA_Challenge_2017.png)
 
 Screenshot of refactored macro executing on 2018 data:
-![](Resources/VBA_Challenge_2017.PNG)
+![](Resources/VBA_Challenge_2018.png)
 
 Below is the refactored code with time complexity of O(n):
 ![](Resources/Refactored_Code.PNG)
