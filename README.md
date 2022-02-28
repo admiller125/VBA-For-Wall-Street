@@ -15,7 +15,7 @@ The original code took roughly 0.8 Seconds to run on my computer. For the small 
 
 Screenshot of macro executing on 2017 data:
 
-![](Resources/All_Stocks_VBA_Challenge_2017.png
+![](Resources/All_Stocks_VBA_Challenge_2017.PNG)
 
 Screenshot of macro executing on 2018 data:
 
