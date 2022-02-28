@@ -25,13 +25,13 @@ This code was written with a time complexity of O(n2).  This seems unnecessary b
 
 Below is the original code with time complexity of O(n2):
 
-![](Resources/Original_Code.png)
+![](Resources/Original_Code.PNG)
 
 ### Analysis of Refactored Code
 The refactored code had much better performance than the original code accomplishing the same task in roughly 0.11 seconds. This largely has to do with separating the nested for loops. This reduce the time complexity to O(n). 
 
 Below is the refactored code with time complexity of O(n):
-![](Resources/Refactored_Code.png)
+![](Resources/Refactored_Code.PNG)
 
 ### Challenges and Difficulties Encountered
 This project went smoothly, however I initially stumbled due to lack of consideration for the boundary conditions. At first I didn’t consider that the first iteration would meet the “last cell of ticker symbol” criteria and would cause the ticker index to be incremented prematurely. After trial and error I realized the issue with my code and modified it accordingly.
