@@ -34,7 +34,7 @@ Screenshot of refactored macro executing on 2017 data:
 ![](Resources/VBA_Challenge_2017.png)
 
 Screenshot of refactored macro executing on 2018 data:
-![](Resources/VBA_Challenge_2018.png)
+![](Resources/Resources/VBA_Challenge_2018.PNG)
 
 Below is the refactored code with time complexity of O(n):
 ![](Resources/Refactored_Code.PNG)
